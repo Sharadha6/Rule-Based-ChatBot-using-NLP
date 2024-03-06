@@ -21,4 +21,4 @@ The project uses an example application of having a chatbot to answer FAQs regar
 2. Run Text Analytics.ipynb (make sure data file deposit-account-agreement.pdf is saved in the same folder)
 3. Confirm you got the "paragraphs.csv" output file after step 2
 4. Run Chatbot_functions.ipynb
-5. Use the ChatBot in notebook or open Gradio ChatBot in seperate tab using link provided.
+5. Use the ChatBot in notebook or open Gradio ChatBot in seperate tab using link displayed upon execution.
