@@ -16,7 +16,7 @@ The project uses an example application of having a chatbot to answer FAQs regar
 ### Notebooks
 - Text Analytics.ipynb: Notebook where data is loaded, cleaned, manipulated and EDA is done. This notebook creates the output csv file paragraphs.csv which we will use for our chatbot.
 - Chatbot_functions.ipynb: Notebook where data in the right format (paragraphs.csv) is loaded, all necessary algorithms and functions for chatbot are created, and final chatbot is called using Gradio.
-### Correct Order of Execution
+## Correct Order of Execution
 1. View "Rule-Based ChatBot.pptx" slides
 2. Run Text Analytics.ipynb (make sure data file deposit-account-agreement.pdf is saved in the same folder)
 3. Confirm you got the "paragraphs.csv" output file after step 2
